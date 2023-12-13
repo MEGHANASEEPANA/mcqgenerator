@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is machine learning?,a: The study of statistical algorithms in artificial intelligence | b: The study of human cognitive processes | c: The study of language models and computer vision | d: The study of mathematical optimization methods,a
-Who coined the term 'machine learning'?,a: Arthur Samuel | b: Donald Hebb | c: Walter Pitts | d: Warren McCulloch,a
-What is the purpose of modern-day machine learning?,a: To classify data and make predictions | b: To study human cognitive processes | c: To develop statistical algorithms | d: To analyze sonar signals and speech patterns,a
-Which field of study focuses on exploratory data analysis through unsupervised learning?,a: Machine learning | b: Data mining | c: Artificial intelligence | d: Computer gaming,b
-What did Donald Hebb's book 'The Organization of Behavior' discuss?,a: The development of statistical algorithms | b: The mathematical foundations of machine learning | c: The neural structure or synapses between nerve cells | d: The history of machine learning,c
+What is machine learning?,a: The study of artificial intelligence concerned with the development and study of statistical algorithms | b: The study of computer gaming and artificial intelligence | c: The study of human cognitive processes | d: The study of mathematical optimization methods,a
+What is the synonym for machine learning used in the 1950s?,a: Generative artificial neural networks | b: Self-teaching computers | c: Mathematical optimization methods | d: Computational statistics,b
+Who coined the term machine learning?,a: Arthur Samuel | b: Donald Hebb | c: Walter Pitts | d: Warren McCulloch,a
+What is the purpose of modern-day machine learning?,a: To develop models for classifying data | b: To make predictions for future outcomes | c: Both a and b | d: None of the above,c
+What is an example of a machine learning algorithm?,"a: Computer vision of moles for classifying cancerous moles | b: Analyzing sonar signals, electrocardiograms, and speech patterns | c: Recognizing 40 characters from a computer terminal | d: All of the above",d
